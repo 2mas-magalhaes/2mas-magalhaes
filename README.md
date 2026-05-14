@@ -43,15 +43,6 @@ Distributed quiz application with client-server architecture, centralized game s
 - **Distributed and concurrent programming** — understanding real-world system constraints
 - **Rapid prototyping with discipline** — speed + maintainability + testability
 
-## Philosophy
-
-**On AI and Coding:**  
-> "I understand software fundamentals, and I use AI tools to build, debug, document, and iterate faster."
-
-Not "vibe coding." Not "prompt engineering." Engineering with AI as a tool.
-
-**On Learning:**  
-> "Formal music training taught me that mastery requires consistent practice, long-term thinking, and disciplined iteration—principles that apply equally to software."
 
 ## What I'm Looking For
 
