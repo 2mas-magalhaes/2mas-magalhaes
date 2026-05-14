@@ -6,8 +6,7 @@ Final-year Information Systems and Business Management student at ISCTE, focused
 
 I've been programming for several years, and I now use AI-assisted workflows as part of my engineering process—ideation, prototyping, debugging, refactoring, documentation, and system design. My focus is not replacing fundamentals with AI, but using AI strategically to build faster while keeping code understandable, maintainable, and testable.
 
-I study at **ISCTE – Instituto Universitário de Lisboa** and will graduate this year. I also trained formally in music (percussion, conservatory level), which shaped my discipline, consistency, and long-term learning approach.
-
+I study at **ISCTE – Instituto Universitário de Lisboa** and will graduate this year.
 ## What I'm Building
 
 ### Featured Projects
