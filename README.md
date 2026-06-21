@@ -14,11 +14,11 @@
 <a href="https://github.com/2mas-magalhaes">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/tom%C3%A1s-magalh%C3%A3es-a3179a418">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:tomasmagalhaes.trabalho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/tomasmagalhaes.trabalho@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=2mas-magalhaes&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
