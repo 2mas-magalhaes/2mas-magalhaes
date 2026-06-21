@@ -1,11 +1,11 @@
 <!-- ====================== HEADER / BANNER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Tom%C3%A1s%20Magalh%C3%A3es&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Assisted%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:60A5FA&height=220&section=header&text=Tom%C3%A1s%20Magalh%C3%A3es&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Assisted%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="header"/>
 
 <!-- Animated typing -->
 <a href="https://github.com/2mas-magalhaes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%F0%9F%A4%96;Full-Stack+%26+Automation+Engineer+%E2%9A%99%EF%B8%8F;Local+LLM+%26+GPU-aware+pipelines+%F0%9F%A7%A0;Final-year+student+%40+ISCTE+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Building+AI-powered+tools+%F0%9F%A4%96;Full-Stack+%26+Automation+Engineer+%E2%9A%99%EF%B8%8F;Local+LLM+%26+GPU-aware+pipelines+%F0%9F%A7%A0;Final-year+student+%40+ISCTE+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <a href="mailto:">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=2mas-magalhaes&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=2mas-magalhaes&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -46,7 +46,7 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
 
 ### ClipperAI &nbsp;·&nbsp; AI Video Processing Pipeline
 <a href="https://github.com/2mas-magalhaes/ClipperAI">
-  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ClipperAI"/>
+  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="ClipperAI"/>
 </a>
 
 > An end-to-end, **GPU-aware pipeline** that downloads long-form videos, transcribes audio, identifies the best segment candidates using **local LLM analysis**, and prepares ready-to-publish short-form clips.
@@ -67,7 +67,7 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
 
 ### SteamScraper &nbsp;·&nbsp; Game Data Scraping & Insights
 <a href="https://github.com/tiagoc211/SteamScraper">
-  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="SteamScraper"/>
+  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="SteamScraper"/>
 </a>
 
 > A **data-scraping tool** that collects and structures information from the Steam platform, turning raw store/game data into clean, queryable insights.
@@ -92,7 +92,7 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
 
 ### BiteFinder &nbsp;·&nbsp; Final Degree Project
 <a href="https://github.com/2mas-magalhaes/BiteFinder">
-  <img src="https://img.shields.io/badge/CAPSTONE-View_Repo-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="BiteFinder"/>
+  <img src="https://img.shields.io/badge/CAPSTONE-View_Repo-3B82F6?style=for-the-badge&logo=android&logoColor=white" alt="BiteFinder"/>
 </a>
 
 > A **mobile application** that helps users discover and decide where to eat, delivering personalized restaurant recommendations through a clean, modern mobile experience.
@@ -146,16 +146,16 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2mas-magalhaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2mas-magalhaes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2mas-magalhaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2mas-magalhaes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=8" alt="top langs"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2mas-magalhaes&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2mas-magalhaes&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2mas-magalhaes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff&area=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2mas-magalhaes&theme=github-compact&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=ffffff&area=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -190,7 +190,7 @@ A selection of coursework projects developed during my degree at ISCTE.
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1D4ED8&height=120&section=footer" width="100%" alt="footer"/>
 
 From [2mas-magalhaes](https://github.com/2mas-magalhaes)
 
