@@ -25,39 +25,28 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## 🧭 About Me
+## About Me
 
-```python
-class Tomas:
-    def __init__(self):
-        self.name        = "Tomás Magalhães"
-        self.role        = "AI-Assisted Software Engineer"
-        self.university  = "ISCTE – Instituto Universitário de Lisboa"
-        self.graduation  = "2026"
-        self.location    = "Lisbon, Portugal 🇵🇹"
-        self.focus       = ["AI tooling", "Full-stack", "Automation", "Distributed systems"]
+I'm Tomás Magalhães, a final-year student at **ISCTE – Instituto Universitário de Lisboa** (graduating in 2026), based in Lisbon, Portugal. I work as an **AI-assisted software engineer**, building full-stack applications, automation systems, and AI-powered tools with a strong emphasis on practical engineering discipline.
 
-    def philosophy(self):
-        return ("Use AI strategically to build faster — "
-                "without trading away clean, maintainable, testable code.")
-```
+I've been programming for several years, and over time I've integrated **AI-assisted workflows** across my entire engineering process — from ideation and prototyping to debugging, refactoring, documentation, and system design. My philosophy is straightforward: I don't use AI to replace fundamentals, but to use it strategically so I can build faster while keeping my code clean, understandable, maintainable, and testable.
 
-I've been programming for several years and integrate **AI-assisted workflows** across my entire engineering process — ideation, prototyping, debugging, refactoring, documentation, and system design. My goal isn't to replace fundamentals with AI, but to **multiply my output while keeping code understandable and production-minded**.
+My main areas of interest are AI tooling and local LLM workflows, full-stack development, automation, and distributed systems. I enjoy turning complex problems into reliable, production-minded solutions, and I'm always looking to deepen my understanding of how real-world systems are built and scaled.
 
 <br/>
 
 <!-- ====================== FLAGSHIP PROJECTS ====================== -->
 <div align="center">
 
-# 🚀 Flagship Projects
+# Flagship Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
 </div>
 
-### 🎬 ClipperAI &nbsp;·&nbsp; AI Video Processing Pipeline
+### ClipperAI &nbsp;·&nbsp; AI Video Processing Pipeline
 <a href="https://github.com/2mas-magalhaes/ClipperAI">
-  <img src="https://img.shields.io/badge/⭐_FLAGSHIP-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ClipperAI"/>
+  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ClipperAI"/>
 </a>
 
 > An end-to-end, **GPU-aware pipeline** that downloads long-form videos, transcribes audio, identifies the best segment candidates using **local LLM analysis**, and prepares ready-to-publish short-form clips.
@@ -76,9 +65,9 @@ I've been programming for several years and integrate **AI-assisted workflows** 
 
 <br/>
 
-### 🕹️ SteamScraper &nbsp;·&nbsp; Game Data Scraping & Insights
+### SteamScraper &nbsp;·&nbsp; Game Data Scraping & Insights
 <a href="https://github.com/tiagoc211/SteamScraper">
-  <img src="https://img.shields.io/badge/⭐_FLAGSHIP-View_Repo-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="SteamScraper"/>
+  <img src="https://img.shields.io/badge/FLAGSHIP-View_Repo-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="SteamScraper"/>
 </a>
 
 > A **data-scraping tool** that collects and structures information from the Steam platform, turning raw store/game data into clean, queryable insights.
@@ -97,13 +86,13 @@ I've been programming for several years and integrate **AI-assisted workflows** 
 <!-- ====================== CAPSTONE ====================== -->
 <div align="center">
 
-## 🎓 Capstone Project
+## Capstone Project
 
 </div>
 
-### 🍽️ BiteFinder &nbsp;·&nbsp; Final Degree Project
+### BiteFinder &nbsp;·&nbsp; Final Degree Project
 <a href="https://github.com/2mas-magalhaes/BiteFinder">
-  <img src="https://img.shields.io/badge/🏆_CAPSTONE-View_Repo-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="BiteFinder"/>
+  <img src="https://img.shields.io/badge/CAPSTONE-View_Repo-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="BiteFinder"/>
 </a>
 
 > A **mobile application** that helps users discover and decide where to eat, delivering personalized restaurant recommendations through a clean, modern mobile experience.
@@ -119,7 +108,7 @@ I've been programming for several years and integrate **AI-assisted workflows** 
 <br/>
 
 <!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -153,7 +142,7 @@ I've been programming for several years and integrate **AI-assisted workflows** 
 <br/>
 
 <!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -173,7 +162,7 @@ I've been programming for several years and integrate **AI-assisted workflows** 
 <br/>
 
 <!-- ====================== UNIVERSITY PROJECTS ====================== -->
-## 🏫 University Projects
+## University Projects
 
 A selection of coursework projects developed during my degree at ISCTE.
 
@@ -186,13 +175,13 @@ A selection of coursework projects developed during my degree at ISCTE.
 <br/>
 
 <!-- ====================== FOCUS / LOOKING FOR ====================== -->
-## 🎯 Focus Areas & What I'm Looking For
+## Focus Areas & What I'm Looking For
 
-- 🤖 **AI-assisted software engineering** — using LLMs strategically without losing fundamentals
-- 🧠 **Local AI workflows** — Ollama, local inference, GPU-aware & cost-conscious AI
-- 🌐 **Full-stack application development** — frontend + backend + data
-- ⚙️ **Automation & developer productivity** — pipelines, scripting, workflow optimization
-- 🔗 **Distributed & concurrent programming** — real-world system constraints
+- **AI-assisted software engineering** — using LLMs strategically without losing fundamentals
+- **Local AI workflows** — Ollama, local inference, GPU-aware & cost-conscious AI
+- **Full-stack application development** — frontend + backend + data
+- **Automation & developer productivity** — pipelines, scripting, workflow optimization
+- **Distributed & concurrent programming** — real-world system constraints
 
 > **Open to:** Junior Software Engineering · Full-Stack · AI Engineering · Product Engineering roles, and conversations about software, AI tooling, and distributed systems.
 
@@ -203,6 +192,6 @@ A selection of coursework projects developed during my degree at ISCTE.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer"/>
 
-⭐️ From [2mas-magalhaes](https://github.com/2mas-magalhaes)
+From [2mas-magalhaes](https://github.com/2mas-magalhaes)
 
 </div>
