@@ -95,38 +95,24 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
   <img src="https://img.shields.io/badge/IN_PROGRESS-Building_Now-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white" alt="TradingBot"/>
 </a>
 
-> An **ultra-low-latency, self-learning crypto day-trading system**. Instead of fixed rules, a
-> **reinforcement-learning agent learns to trade** from live order-book microstructure, while a
-> separate **Rust engine** handles μs-latency market data, risk, and order execution. The two
-> communicate over **gRPC/protobuf**.
+> An **ultra-low-latency, self-learning crypto day-trading system**. A **reinforcement-learning
+> agent** (PPO) learns to trade from live order-book microstructure instead of fixed rules, a
+> **Rust engine** handles μs-latency market data, risk and order execution, and a **local LLM**
+> adds news/sentiment context — all wired together over **gRPC/protobuf** with a real-time
+> React/TypeScript dashboard.
 
 **How it works:**
 
-- **Rust execution engine (μs latency)** — streams Binance/Bybit Level-2 order-book deltas over
-  WebSocket into a lock-free book, computes micro-alpha (order-book imbalance, statistical
-  arbitrage), and signs/sends HMAC-authenticated orders with VWAP fill tracking.
-- **Python ML brain (RL, not rules)** — a **PPO agent** (ConvTransformer feature extractor +
-  forecasting "Oracle" actor-critic) trained in a custom Gym environment on a ~212-dimensional
-  state (L2 book, order-flow add/cancel/execute deltas, deep order-book imbalance, spoofing score).
-  It *learns* buy/sell/hold/close policies online rather than executing hand-written signals.
-- **Reward design (anti reward-hacking)** — a custom "MIDAS" reward function enforces a hard
-  stop-loss, penalizes bleeding positions, and rewards holding winners — fixing the disposition
-  effect that plagues naive RL traders.
-- **Risk engine (Rust)** — circuit breaker, Kelly position sizing, drawdown monitor, adverse-
-  selection detection, and a dead-man's-switch emergency liquidation.
-- **Backtesting → paper → live** — strategies are validated on historical data, evaluated with a
-  multi-metric composite score (Sharpe, Sortino, Calmar, profit factor), then paper-traded before
-  any live capital is risked.
-- **Real-time dashboard & telemetry (React/TypeScript)** — streams training and trade telemetry
-  with off-thread (Web Worker) chart rendering for jank-free monitoring.
-- **LLM sentiment & news intelligence (local-first)** — a background loop ingests news/RSS feeds,
-  then a **local LLM** (Ollama: `qwen2.5:1.5b` → `qwen2.5:7b`, or quantized HuggingFace models)
-  classifies financial sentiment and extracts macro/micro events into a composite **Market
-  Sentiment Index (MSI)**. A **fusion gate** lets this context *support* the RL agent — vetoing
-  trades against fresh high-impact news or shrinking size when sources disagree — but never
-  silently overrides it. Cost/latency are kept low with **semantic caching, small→large model
-  routing, early-exit and batching**, and all untrusted text passes a single sanitization choke
-  point to mitigate **prompt injection**.
+- **Rust execution engine (μs latency)** — streams Level-2 order-book deltas into a lock-free book,
+  computes micro-alpha, and sends HMAC-signed orders with VWAP fill tracking.
+- **Python ML brain (RL, not rules)** — a PPO agent learns buy/sell/hold/close policies from a rich
+  order-book + order-flow state, trained in a custom Gym environment.
+- **Risk & reward design** — a custom reward function (hard stop-loss, holds winners) plus a Rust
+  risk engine: circuit breaker, Kelly sizing, drawdown monitor, and emergency liquidation.
+- **LLM sentiment (local-first)** — a local LLM (Ollama) turns news/RSS into a Market Sentiment
+  Index that *supports* the agent through a fusion gate, with prompt-injection sanitization.
+- **Backtest → paper → live** — strategies are validated on history (Sharpe, Sortino, Calmar),
+  paper-traded, then risked live, all monitored through a real-time React/TypeScript dashboard.
 
 **Why it matters:** a production-minded, cross-language system (Rust + Python + TypeScript)
 combining deep reinforcement learning, market microstructure, disciplined risk controls, and
