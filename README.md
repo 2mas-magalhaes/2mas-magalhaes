@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:">
+<a href="mailto:tomasmagalhaes.trabalho@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=2mas-magalhaes&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -27,7 +27,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## About Me
 
-I'm Tomás Magalhães, a final-year student at **ISCTE – Instituto Universitário de Lisboa** (graduating in 2026), based in Lisbon, Portugal. I work as an **AI-assisted software engineer**, building full-stack applications, automation systems, and AI-powered tools with a strong emphasis on practical engineering discipline.
+I'm Tomás Magalhães, a final-year student at **ISCTE – Instituto Universitário de Lisboa**, where I'm completing my degree in **Informática e Gestão de Empresas (Computer Science and Business Management)**, graduating in 2026. I'm based in Lisbon, Portugal, and although my degree blends technology with management, I've been programming since I was young — it's been a passion long before it was a course. Today I work as an **AI-assisted software engineer**, building full-stack applications, automation systems, and AI-powered tools with a strong emphasis on practical engineering discipline.
 
 I've been programming for several years, and over time I've integrated **AI-assisted workflows** across my entire engineering process — from ideation and prototyping to debugging, refactoring, documentation, and system design. My philosophy is straightforward: I don't use AI to replace fundamentals, but to use it strategically so I can build faster while keeping my code clean, understandable, maintainable, and testable.
 
@@ -151,11 +151,11 @@ My main areas of interest are AI tooling and local LLM workflows, full-stack dev
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2mas-magalhaes&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2mas-magalhaes&hide_border=true&background=0D1117&border=30363D&stroke=2563EB&ring=2563EB&fire=60A5FA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=8B949E" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2mas-magalhaes&theme=github-compact&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=ffffff&area=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2mas-magalhaes&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=ffffff&title_color=60A5FA&area_color=2563EB&area=true" width="100%" alt="activity graph"/>
 
 </div>
 
